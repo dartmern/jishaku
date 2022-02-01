@@ -26,6 +26,8 @@ a debugging and utility extension for discord.py bots
 </p>
 
 ***
+This is fork hopes to fix breaking changes in [enhanced-discord.py](https://enhanced-dpy.readthedocs.io/en/latest/whats_new.html#v2-0-0-moving-to-enhanced-discord-py). If there are issues with jishaku and enhanced-discord.py please make a pull request. The goal of this fork is to not maintain jishaku but to assist 
+enhanced-discord.py users.
 
 > <h3><b>⚠️ Warning</b></h3>
 >
